@@ -1,0 +1,35 @@
+body{
+    background-color:#936639;
+
+}
+.informacoes{
+    text-align: center;
+    background-color: #B6AD90;
+    border-radius: 10px;
+    margin-right: 300px;
+    margin-left: 300px;
+}
+.foto{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    cursor: pointer;
+    object-fit: cover;
+}
+.link1 , .link2 , .link3{
+    text-align: center;
+    border-radius: 8px;
+    padding: 10px; 
+   
+}
+button{
+    size: 200px;
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 200px;
+    height: 50px;
+    background-color: #333D29;
+    color: #C2C5AA;
+    border-radius: 5px;
+    border:none;
+}
